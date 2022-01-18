@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding-left: 1px;
+    font-family: 'PT Serif', serif;
+    background-color: antiquewhite;
+}
+#title{
+    padding-left: 2px;
+
+}
+.label{
+    font-size: 1em;
+}
+
+div{
+    margin-bottom: 8px;
+    font-size: 0.8rem;
+}
+#title{
+    font-size: 3em;
+}
+button{
+    font-size: 0.8rem; 
+    border: none; 
+}
+textarea{
+    font-size: 0.8rem; 
+}
